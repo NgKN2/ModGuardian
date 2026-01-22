@@ -1,4 +1,4 @@
-# ModGuardian v1.0
+# ModGuardian v2.0
 
 **Advanced Mod Detection Plugin for Minecraft**  
 By NKN
