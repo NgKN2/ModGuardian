@@ -117,7 +117,7 @@ https://github.com/retrooper/packetevents/releases
 ```
 /plugins/
 ├── PacketEvents.jar
-└── ModGuardian-1.0.jar
+└── ModGuardian-2.0.jar
 ```
 
 3. **Khởi động server**
